@@ -1,0 +1,20 @@
+[
+  {
+    "paper": "adai",
+    "language": "en",
+    "file": "papers/ADAI-framework-en.pdf",
+    "sha256": "860dfc07a9b0e0efe19c8392537e4ab08c5356d58e96562c061ceff2459d73a2",
+    "bytes": 1429481,
+    "pages": 37,
+    "doi": "10.5281/zenodo.23089594"
+  },
+  {
+    "paper": "adai",
+    "language": "pt",
+    "file": "papers/ADAI-framework-pt.pdf",
+    "sha256": "2b3fae2614f0de412b291a743f73169cdbe60d6c0eddf8b54216fe67eab00487",
+    "bytes": 1453336,
+    "pages": 37,
+    "doi": "10.5281/zenodo.23089594"
+  }
+]
