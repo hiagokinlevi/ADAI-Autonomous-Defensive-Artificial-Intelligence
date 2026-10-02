@@ -1,0 +1,66 @@
+{
+  "author": "Hiago Kin Levi",
+  "affiliation": "Decripte",
+  "publicationDate": "2026-10-01",
+  "version": "1.0",
+  "status": "Preprint; not represented as peer-reviewed",
+  "rights": "All rights reserved",
+  "papers": {
+    "adai": {
+      "doi": "10.5281/zenodo.23089594",
+      "file": "ADAI-framework",
+      "pages": {
+        "en": 37,
+        "pt": 37
+      },
+      "title": {
+        "en": "Autonomous Defensive AI: An Envelope-and-Evidence Framework for Governed LLMs Acting on Production Infrastructure",
+        "pt": "Inteligência Artificial de Defesa Autônoma: um arcabouço de envelope e evidência para LLMs governadas que agem sobre infraestrutura de produção"
+      },
+      "label": {
+        "en": "The proposed category and formal framework",
+        "pt": "A categoria proposta e o arcabouço formal"
+      },
+      "short": {
+        "en": "A proposed framework for governed autonomous cyber defense: action envelopes, model-excluded admissibility, bounded effects, reversibility and evidence an external reader can recompute.",
+        "pt": "Um arcabouço proposto para defesa cibernética autônoma governada: envelopes de ação, admissibilidade excluída do modelo, efeitos delimitados, reversibilidade e evidências que um leitor externo pode recomputar."
+      },
+      "abstract": {
+        "en": "ADAI (Autonomous Defensive Artificial Intelligence) is a proposed category of governed autonomous cyber defense. The framework specifies defended perimeters, bounded effects, declared rollback and capability-disjoint verification for systems acting on production infrastructure. Admissibility is adjudicated outside the learned model, while hash-linked, seal-terminated receipts provide a self-describing recomputation contract. The paper develops exact tamper localization, per-principal containment at shared enforcement points, element-wise reconciliation under aggregation, atomization conditions, blinded correlation and conditions for composite reversibility. It separates policy quality, envelope integrity and evidence integrity in its evaluation methodology. Formal results depend on their stated assumptions. This preprint does not assert that every theoretical construction is implemented or independently validated.",
+        "pt": "ADAI (Autonomous Defensive Artificial Intelligence) é uma categoria proposta de defesa cibernética autônoma governada. O arcabouço especifica perímetros defendidos, efeitos delimitados, reversão declarada e verificação por capacidades disjuntas para sistemas que agem sobre infraestrutura de produção. A admissibilidade é avaliada fora do modelo aprendido; recibos encadeados por hash e encerrados por selo oferecem um contrato de recomputação autodescritivo. O paper desenvolve localização exata de alterações, contenção por principal em pontos compartilhados de execução, reconciliação por elemento sob agregação, condições de atomização, correlação ofuscada e condições para reversibilidade composta. A metodologia separa qualidade da política, integridade do envelope e integridade da evidência. Os resultados formais dependem das hipóteses declaradas. O preprint não afirma que toda construção teórica esteja implementada ou validada de forma independente."
+      },
+      "sections": [
+        "Definition and membership criteria",
+        "Action envelope and model independence",
+        "Evidence obligation and exact tamper localization",
+        "Discriminator condition",
+        "Aggregation and reconciliation",
+        "Autonomy lattice",
+        "Three-family evaluation methodology",
+        "Atomization, blinded correlation and composite reversibility"
+      ]
+    }
+  },
+  "keywords": [
+    "autonomous cyber defense",
+    "autonomous defensive artificial intelligence",
+    "ADAI",
+    "DAI",
+    "domain-specific LLM",
+    "large language models",
+    "AI security",
+    "incident response",
+    "model-excluded authority",
+    "action envelope",
+    "capability-disjoint verification",
+    "tamper-evident receipts",
+    "tenant isolation",
+    "principal-scoped containment",
+    "element-level reconciliation",
+    "causal Transformer",
+    "outcome-verified training",
+    "verifiable evidence",
+    "reversibility",
+    "cybersecurity research"
+  ]
+}
