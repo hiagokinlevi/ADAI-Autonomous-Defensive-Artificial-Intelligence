@@ -1,10 +1,10 @@
 # Copyright (c) 2026 Hiago Kin Levi. All rights reserved. SPDX-License-Identifier: LicenseRef-Proprietary
 cff-version: 1.2.0
 message: "Please cite the research preprint using its DOI."
-title: "ADAI publication repository"
+title: "ADAI — Autonomous Defensive Artificial Intelligence"
 version: "1.0"
 date-released: "2026-10-01"
-url: "https://hiagokinlevi.github.io/adai-paper/"
+url: "https://hiagokinlevi.github.io/ADAI-Autonomous-Defensive-Artificial-Intelligence/"
 authors:
   - family-names: "Levi"
     given-names: "Hiago Kin"
