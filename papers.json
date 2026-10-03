@@ -61,7 +61,16 @@
     "outcome-verified training",
     "verifiable evidence",
     "reversibility",
-    "cybersecurity research"
+    "cybersecurity research",
+    "information security",
+    "cybersecurity LLM",
+    "governed incident response",
+    "AI-enabled attacks",
+    "prompt injection defenses"
   ],
-  "repositoryName": "ADAI-Autonomous-Defensive-Artificial-Intelligence"
+  "repositoryName": "ADAI-Autonomous-Defensive-Artificial-Intelligence",
+  "discoveryGuides": {
+    "en": "https://hiagokinlevi.github.io/ADAI-Autonomous-Defensive-Artificial-Intelligence/autonomous-defensive-ai.html",
+    "pt": "https://hiagokinlevi.github.io/ADAI-Autonomous-Defensive-Artificial-Intelligence/pt/autonomous-defensive-ai.html"
+  }
 }
