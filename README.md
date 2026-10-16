@@ -5,6 +5,10 @@ Public ADAI manuscripts and a bilingual research website by **Hiago Kin Levi**, 
 
 **Website:** https://hiagokinlevi.github.io/ADAI-Autonomous-Defensive-Artificial-Intelligence/
 
+## Summaries in 15 languages
+
+Short introductions to both papers are available in [15 languages](https://hiagokinlevi.github.io/ADAI-Autonomous-Defensive-Artificial-Intelligence/languages/en.html). The English and Portuguese PDFs remain the authoritative manuscripts.
+
 ## Papers
 
 | Paper | DOI | Manuscripts |
